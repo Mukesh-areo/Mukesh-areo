@@ -1,38 +1,24 @@
-# Mukesh-B
+Mukesh B
 
-# Hey! Nice to see you.
+Data Scientist | Generative AI | Agentic AI | iXBRL Automation
 
-## I have technical experience and interest in -
-- Machine Learning
-- Computer vision
-- Natural Language Processing
-- Ultrasonic Testing (Non Destructive Testing)
-- Robotics
-- UAV
-- CAD Modeling (Solid Works,Catia V5)
-- Anaysis tools(Ansys)
+7+ years across software engineering and data science, including 4+ years in data science and AI roles. I lead AI projects from requirements through implementation, evaluation and production support.
 
-## Skills 🚀 
+Experience domains
 
-[![](https://img.shields.io/badge/Tensorflow-fc820f?style=for-the-badge&logo=tensorflow&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Keras-fc2814?style=for-the-badge&logo=keras&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/MLOops-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/MLFlow-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/mongodb-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=AWS&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Tableau-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
+Financial reporting and regulatory disclosure automation
 
+iXBRL / XBRL tagging and SEC filings
 
-<br>
+Banking document processing and NLP
 
-## Connect 🤝
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-b-7005a9178/) &emsp;
+Insurance claims and invoice intelligence
 
+Retrieval-augmented generation and agentic workflows
+
+Technology stack
+
+Python SQL PyTorch scikit-learn TensorFlow Bi-LSTM spaCy
+RAG LLM fine-tuning LangChain LangGraph FastMCP pgvector Ollama vLLM
+FastAPI Flask Docker AWS ECS/ECR Terraform Redis RabbitMQ
+Grafana Loki Prometheus OpenTelemetry Tempo Jira

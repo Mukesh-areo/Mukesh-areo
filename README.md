@@ -45,13 +45,7 @@
 ### 01 — iXBRL Tagging Automation
 **Financial reporting · NLP · Human review**
 
-Built a hybrid tagging pipeline with prior-filing roll-forward, frequency lookup, Bi-LSTM classifiers and taxonomy rules.
-
-**Impact**
-- `4–8 hrs → ~1 hr` per filing, including manual review
-- `75–80%` reported tagging accuracy
-- `9.68% → 90.03%` internal IFRS-40F concept, dimension and period accuracy
-
+Built a hybrid tagging pipeline
 </td>
 <td width="50%" valign="top">
 
